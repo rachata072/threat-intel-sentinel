@@ -1,0 +1,8 @@
+out/
+my_allowlist.txt
+failed_logons.csv
+*.stix.json
+*.import.json
+.env
+__pycache__/
+watchlist/TI-Allowlist.real.csv
